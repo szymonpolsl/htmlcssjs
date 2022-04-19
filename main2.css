@@ -1,0 +1,33 @@
+body
+{
+	background-color: #ccc;
+}
+hr{
+	height: 5px;
+	width: 40%;
+	background-color: gray;
+}
+table, td{
+	border: solid;
+	border-color: black;
+	border-width: 1px;
+}
+table{
+	width: 50%;
+	border-collapse: collapse;
+}
+.right{
+	text-align: right;
+}
+#center{
+	text-align: center;
+}
+.info{
+    color: red;
+}
+.ziel{
+    color: green;
+}
+.lewa{
+    text-align: left;
+}
